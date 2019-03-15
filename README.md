@@ -1,3 +1,4 @@
+bundle install
 # ActiveRecord Model Rails Lab
 
 ## Objectives
